@@ -1,0 +1,1 @@
+LinkinPar:d=4,o=6,b=125:g_,8p,8g_,g_,8f_,8g_,g_,8g_,8g_,g_,b,f_,8p,8g_,g_,8f_,8g_,g_,8g_,8g_,g_,f_,g_,8g_,8g_,g_,f_,g_,8g_,8g_,g_,b,f_,8g_,8g_,g_,f_,g_,8g_,8g_,g_,f_,g_
